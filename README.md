@@ -1,4 +1,4 @@
-Welcome to my first ETL project!
+# Welcome to my first ETL project!
 
 My First ETL project - At least thats what I thought! Realized that I have been doing ETL/ELT everyday in my current role as a data analyst in the healthcare domain:
 
