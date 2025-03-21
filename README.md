@@ -26,6 +26,22 @@ In this project, I used python to Extract, Transform and load data from multiple
 #### Importing the neccessary libraries:
 Here the only 2 libraries I used for the first time are:
     1. **glob**: Helps find all the files with specific extensions
+
     2. **ElementTree**: We will need this to parse information from the xml file. 
 
 ### Extract: 
+    1. **json and csv**: Pandas!
+
+    2. **xml** Parse using ElementTree then Pandas!
+
+    3. Combined the 3 different types of data into a Master table.
+
+### Tansform:
+Any operation here should not be a problem as a data analyst.
+
+### Load:
+Dumped the data from the Master table into a CSV.
+
+## Whats next?
+    - Most of the operations here were done using functions. I would like to see how to redo the whole project using OOP.
+    - Since ETL is just a part of a Pipeline, looking forward to building an entire pipeline.
